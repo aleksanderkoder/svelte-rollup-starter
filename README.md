@@ -2,6 +2,6 @@
  Simple starting example for Svelte and Rollup based apps. 
 
 Run dev server using: 
-'''shell
+```shell
 npm run dev
-'''
+```
